@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="18.753" timestamp="2024-07-26T12:46:37.999026-04:00" hostname="DESKTOP-NV2TNR0"><testcase classname="Test_cases.test_pim_01_add.Test_pim_employee_add" name="test_pim_search" time="18.580" /></testsuite></testsuites>

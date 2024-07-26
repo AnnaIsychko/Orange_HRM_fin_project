@@ -1,0 +1,659 @@
+07/25/2024 09:31:34 PM: INFO: Starting the Test
+07/25/2024 09:31:35 PM: INFO: Username entered
+07/25/2024 09:31:35 PM: INFO: password entered
+07/25/2024 09:31:36 PM: INFO: Login button clicked
+07/25/2024 09:31:37 PM: INFO: ************** Login Successfull,Im in Dashboard Page ****************
+07/25/2024 09:31:37 PM: INFO: *** Login Test Passed ***
+07/25/2024 09:31:37 PM: INFO: Test Completed
+07/25/2024 09:47:52 PM: INFO: Username entered
+07/25/2024 09:47:52 PM: INFO: Password entered
+07/25/2024 09:47:52 PM: INFO: Login button clicked
+07/25/2024 09:47:52 PM: INFO: Clicking on Admin Menu Item
+07/25/2024 09:49:41 PM: INFO: Username entered
+07/25/2024 09:49:41 PM: INFO: Password entered
+07/25/2024 09:49:41 PM: INFO: Login button clicked
+07/25/2024 09:49:41 PM: INFO: Clicking on Admin Menu Item
+07/25/2024 10:53:20 PM: INFO: Username entered
+07/25/2024 10:53:20 PM: INFO: Password entered
+07/25/2024 10:53:21 PM: INFO: Login button clicked
+07/25/2024 10:53:21 PM: INFO: Clicking on Admin Menu Item
+07/25/2024 10:56:05 PM: INFO: Username entered
+07/25/2024 10:56:06 PM: INFO: Password entered
+07/25/2024 10:56:07 PM: INFO: Login button clicked
+07/25/2024 10:56:07 PM: INFO: Clicking on Admin Menu Item
+07/25/2024 10:59:30 PM: INFO: Username entered
+07/25/2024 10:59:30 PM: INFO: Password entered
+07/25/2024 10:59:31 PM: INFO: Login button clicked
+07/25/2024 10:59:31 PM: INFO: Clicking on Admin Menu Item
+07/25/2024 10:59:33 PM: INFO: Clicked on Admin Menu Item
+07/25/2024 11:00:53 PM: INFO: Username entered
+07/25/2024 11:00:53 PM: INFO: Password entered
+07/25/2024 11:00:54 PM: INFO: Login button clicked
+07/25/2024 11:00:54 PM: INFO: Clicking on Admin Menu Item
+07/25/2024 11:00:56 PM: INFO: Clicked on Admin Menu Item
+07/25/2024 11:00:56 PM: INFO: Entering username
+07/25/2024 11:00:57 PM: INFO: Entered username
+07/25/2024 11:05:13 PM: INFO: Username entered
+07/25/2024 11:05:13 PM: INFO: Password entered
+07/25/2024 11:05:13 PM: INFO: Login button clicked
+07/25/2024 11:05:13 PM: INFO: Clicking on Admin Menu Item
+07/25/2024 11:05:23 PM: ERROR: Failed to click on Admin Menu Item: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6972DEEB2+31554]
+	(No symbol) [0x00007FF697257EE9]
+	(No symbol) [0x00007FF69711872A]
+	(No symbol) [0x00007FF697168434]
+	(No symbol) [0x00007FF69716853C]
+	(No symbol) [0x00007FF6971AF6A7]
+	(No symbol) [0x00007FF69718D06F]
+	(No symbol) [0x00007FF6971AC977]
+	(No symbol) [0x00007FF69718CDD3]
+	(No symbol) [0x00007FF69715A33B]
+	(No symbol) [0x00007FF69715AED1]
+	GetHandleVerifier [0x00007FF6975E8B2D+3217341]
+	GetHandleVerifier [0x00007FF697635AF3+3532675]
+	GetHandleVerifier [0x00007FF69762B0F0+3489152]
+	GetHandleVerifier [0x00007FF69738E786+750614]
+	(No symbol) [0x00007FF69726376F]
+	(No symbol) [0x00007FF69725EB24]
+	(No symbol) [0x00007FF69725ECB2]
+	(No symbol) [0x00007FF69724E17F]
+	BaseThreadInitThunk [0x00007FFE33287344+20]
+	RtlUserThreadStart [0x00007FFE3527CC91+33]
+
+07/25/2024 11:05:48 PM: INFO: Username entered
+07/25/2024 11:05:48 PM: INFO: Password entered
+07/25/2024 11:05:49 PM: INFO: Login button clicked
+07/25/2024 11:05:49 PM: INFO: Clicking on Admin Menu Item
+07/25/2024 11:06:00 PM: ERROR: Failed to click on Admin Menu Item: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6972DEEB2+31554]
+	(No symbol) [0x00007FF697257EE9]
+	(No symbol) [0x00007FF69711872A]
+	(No symbol) [0x00007FF697168434]
+	(No symbol) [0x00007FF69716853C]
+	(No symbol) [0x00007FF6971AF6A7]
+	(No symbol) [0x00007FF69718D06F]
+	(No symbol) [0x00007FF6971AC977]
+	(No symbol) [0x00007FF69718CDD3]
+	(No symbol) [0x00007FF69715A33B]
+	(No symbol) [0x00007FF69715AED1]
+	GetHandleVerifier [0x00007FF6975E8B2D+3217341]
+	GetHandleVerifier [0x00007FF697635AF3+3532675]
+	GetHandleVerifier [0x00007FF69762B0F0+3489152]
+	GetHandleVerifier [0x00007FF69738E786+750614]
+	(No symbol) [0x00007FF69726376F]
+	(No symbol) [0x00007FF69725EB24]
+	(No symbol) [0x00007FF69725ECB2]
+	(No symbol) [0x00007FF69724E17F]
+	BaseThreadInitThunk [0x00007FFE33287344+20]
+	RtlUserThreadStart [0x00007FFE3527CC91+33]
+
+07/25/2024 11:18:27 PM: INFO: Username entered
+07/25/2024 11:18:27 PM: INFO: Password entered
+07/25/2024 11:18:28 PM: INFO: Login button clicked
+07/25/2024 11:18:28 PM: INFO: Clicking on Admin Menu Item
+07/25/2024 11:18:38 PM: ERROR: Failed to click on Admin Menu Item: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D455EEB2+31554]
+	(No symbol) [0x00007FF6D44D7EE9]
+	(No symbol) [0x00007FF6D439872A]
+	(No symbol) [0x00007FF6D43E8434]
+	(No symbol) [0x00007FF6D43E853C]
+	(No symbol) [0x00007FF6D442F6A7]
+	(No symbol) [0x00007FF6D440D06F]
+	(No symbol) [0x00007FF6D442C977]
+	(No symbol) [0x00007FF6D440CDD3]
+	(No symbol) [0x00007FF6D43DA33B]
+	(No symbol) [0x00007FF6D43DAED1]
+	GetHandleVerifier [0x00007FF6D4868B2D+3217341]
+	GetHandleVerifier [0x00007FF6D48B5AF3+3532675]
+	GetHandleVerifier [0x00007FF6D48AB0F0+3489152]
+	GetHandleVerifier [0x00007FF6D460E786+750614]
+	(No symbol) [0x00007FF6D44E376F]
+	(No symbol) [0x00007FF6D44DEB24]
+	(No symbol) [0x00007FF6D44DECB2]
+	(No symbol) [0x00007FF6D44CE17F]
+	BaseThreadInitThunk [0x00007FFE33287344+20]
+	RtlUserThreadStart [0x00007FFE3527CC91+33]
+
+07/26/2024 12:18:44 AM: INFO: Username entered
+07/26/2024 12:18:44 AM: INFO: Password entered
+07/26/2024 12:18:45 AM: INFO: Login button clicked
+07/26/2024 12:18:45 AM: INFO: Clicking on Admin Menu Item
+07/26/2024 12:18:47 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:18:47 AM: INFO: Entering username
+07/26/2024 12:20:58 AM: INFO: Username entered
+07/26/2024 12:20:59 AM: INFO: Password entered
+07/26/2024 12:21:00 AM: INFO: Login button clicked
+07/26/2024 12:21:00 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:21:01 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:21:01 AM: INFO: \u0412\u0432\u043e\u0434 \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 12:21:12 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0432\u0432\u0435\u0441\u0442\u0438 \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0438\u043b\u0438 \u043d\u0430\u0436\u0430\u0442\u044c \u043a\u043d\u043e\u043f\u043a\u0443 \u043f\u043e\u0438\u0441\u043a\u0430: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E106EEB2+31554]
+	(No symbol) [0x00007FF7E0FE7EE9]
+	(No symbol) [0x00007FF7E0EA872A]
+	(No symbol) [0x00007FF7E0EF8434]
+	(No symbol) [0x00007FF7E0EF853C]
+	(No symbol) [0x00007FF7E0F3F6A7]
+	(No symbol) [0x00007FF7E0F1D06F]
+	(No symbol) [0x00007FF7E0F3C977]
+	(No symbol) [0x00007FF7E0F1CDD3]
+	(No symbol) [0x00007FF7E0EEA33B]
+	(No symbol) [0x00007FF7E0EEAED1]
+	GetHandleVerifier [0x00007FF7E1378B2D+3217341]
+	GetHandleVerifier [0x00007FF7E13C5AF3+3532675]
+	GetHandleVerifier [0x00007FF7E13BB0F0+3489152]
+	GetHandleVerifier [0x00007FF7E111E786+750614]
+	(No symbol) [0x00007FF7E0FF376F]
+	(No symbol) [0x00007FF7E0FEEB24]
+	(No symbol) [0x00007FF7E0FEECB2]
+	(No symbol) [0x00007FF7E0FDE17F]
+	BaseThreadInitThunk [0x00007FFE33287344+20]
+	RtlUserThreadStart [0x00007FFE3527CC91+33]
+
+07/26/2024 12:28:34 AM: INFO: Username entered
+07/26/2024 12:28:34 AM: INFO: Password entered
+07/26/2024 12:28:35 AM: INFO: Login button clicked
+07/26/2024 12:28:35 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:28:37 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:28:37 AM: INFO: \u0412\u0432\u043e\u0434 \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 12:28:47 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0432\u0432\u0435\u0441\u0442\u0438 \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0438\u043b\u0438 \u043d\u0430\u0436\u0430\u0442\u044c \u043a\u043d\u043e\u043f\u043a\u0443 \u043f\u043e\u0438\u0441\u043a\u0430: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF62EB1EEB2+31554]
+	(No symbol) [0x00007FF62EA97EE9]
+	(No symbol) [0x00007FF62E95872A]
+	(No symbol) [0x00007FF62E9A8434]
+	(No symbol) [0x00007FF62E9A853C]
+	(No symbol) [0x00007FF62E9EF6A7]
+	(No symbol) [0x00007FF62E9CD06F]
+	(No symbol) [0x00007FF62E9EC977]
+	(No symbol) [0x00007FF62E9CCDD3]
+	(No symbol) [0x00007FF62E99A33B]
+	(No symbol) [0x00007FF62E99AED1]
+	GetHandleVerifier [0x00007FF62EE28B2D+3217341]
+	GetHandleVerifier [0x00007FF62EE75AF3+3532675]
+	GetHandleVerifier [0x00007FF62EE6B0F0+3489152]
+	GetHandleVerifier [0x00007FF62EBCE786+750614]
+	(No symbol) [0x00007FF62EAA376F]
+	(No symbol) [0x00007FF62EA9EB24]
+	(No symbol) [0x00007FF62EA9ECB2]
+	(No symbol) [0x00007FF62EA8E17F]
+	BaseThreadInitThunk [0x00007FFE33287344+20]
+	RtlUserThreadStart [0x00007FFE3527CC91+33]
+
+07/26/2024 12:43:11 AM: INFO: Username entered
+07/26/2024 12:43:12 AM: INFO: Password entered
+07/26/2024 12:43:13 AM: INFO: Login button clicked
+07/26/2024 12:43:13 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:43:14 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:43:14 AM: INFO: \u0412\u0432\u043e\u0434 \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 12:43:24 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0432\u0432\u0435\u0441\u0442\u0438 \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0438\u043b\u0438 \u043d\u0430\u0436\u0430\u0442\u044c \u043a\u043d\u043e\u043f\u043a\u0443 \u043f\u043e\u0438\u0441\u043a\u0430: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B6C7EEB2+31554]
+	(No symbol) [0x00007FF7B6BF7EE9]
+	(No symbol) [0x00007FF7B6AB872A]
+	(No symbol) [0x00007FF7B6B08434]
+	(No symbol) [0x00007FF7B6B0853C]
+	(No symbol) [0x00007FF7B6B4F6A7]
+	(No symbol) [0x00007FF7B6B2D06F]
+	(No symbol) [0x00007FF7B6B4C977]
+	(No symbol) [0x00007FF7B6B2CDD3]
+	(No symbol) [0x00007FF7B6AFA33B]
+	(No symbol) [0x00007FF7B6AFAED1]
+	GetHandleVerifier [0x00007FF7B6F88B2D+3217341]
+	GetHandleVerifier [0x00007FF7B6FD5AF3+3532675]
+	GetHandleVerifier [0x00007FF7B6FCB0F0+3489152]
+	GetHandleVerifier [0x00007FF7B6D2E786+750614]
+	(No symbol) [0x00007FF7B6C0376F]
+	(No symbol) [0x00007FF7B6BFEB24]
+	(No symbol) [0x00007FF7B6BFECB2]
+	(No symbol) [0x00007FF7B6BEE17F]
+	BaseThreadInitThunk [0x00007FFE33287344+20]
+	RtlUserThreadStart [0x00007FFE3527CC91+33]
+
+07/26/2024 12:51:27 AM: INFO: Username entered
+07/26/2024 12:51:27 AM: INFO: Password entered
+07/26/2024 12:51:28 AM: INFO: Login button clicked
+07/26/2024 12:51:28 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:55:11 AM: INFO: Username entered
+07/26/2024 12:55:11 AM: INFO: Password entered
+07/26/2024 12:55:12 AM: INFO: Login button clicked
+07/26/2024 12:55:12 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:55:12 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043d\u0430\u0436\u0430\u0442\u044c \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin: 'AdminPage_Actions' object has no attribute 'admin_menu_xpath'
+07/26/2024 01:08:07 AM: INFO: Username entered
+07/26/2024 01:08:07 AM: INFO: Password entered
+07/26/2024 01:08:08 AM: INFO: Login button clicked
+07/26/2024 01:08:08 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:08:08 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043d\u0430\u0436\u0430\u0442\u044c \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin: 'AdminPage_Locators' object has no attribute 'admin_menu_xpath'
+07/26/2024 01:21:21 AM: INFO: Username entered
+07/26/2024 01:21:21 AM: INFO: Password entered
+07/26/2024 01:21:23 AM: INFO: Login button clicked
+07/26/2024 01:21:23 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:21:23 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043d\u0430\u0436\u0430\u0442\u044c \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin: 'AdminPage_Locators' object has no attribute 'admin_menu_xpath'
+07/26/2024 01:29:36 AM: INFO: Username entered
+07/26/2024 01:29:36 AM: INFO: Password entered
+07/26/2024 01:29:37 AM: INFO: Login button clicked
+07/26/2024 01:29:37 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:29:37 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043d\u0430\u0436\u0430\u0442\u044c \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin: 'AdminPage_Locators' object has no attribute 'admin_menu_xpath'
+07/26/2024 01:31:00 AM: INFO: Username entered
+07/26/2024 01:31:00 AM: INFO: Password entered
+07/26/2024 01:31:01 AM: INFO: Login button clicked
+07/26/2024 01:31:01 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:31:03 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:31:03 AM: INFO: \u0412\u0432\u043e\u0434 \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 01:31:03 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 01:31:03 AM: INFO: \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f: Admin
+07/26/2024 01:31:03 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043d\u043e\u043f\u043a\u0438 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:31:03 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0432\u0432\u0435\u0441\u0442\u0438 \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0438\u043b\u0438 \u043d\u0430\u0436\u0430\u0442\u044c \u043a\u043d\u043e\u043f\u043a\u0443 \u043f\u043e\u0438\u0441\u043a\u0430: 'AdminPage_Locators' object has no attribute 'search_button_xpath'
+07/26/2024 01:33:00 AM: INFO: Username entered
+07/26/2024 01:33:00 AM: INFO: Password entered
+07/26/2024 01:33:00 AM: INFO: Login button clicked
+07/26/2024 01:33:00 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:33:03 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:33:03 AM: INFO: \u0412\u0432\u043e\u0434 \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 01:33:03 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 01:33:04 AM: INFO: \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f: Admin
+07/26/2024 01:33:04 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043d\u043e\u043f\u043a\u0438 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:33:14 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0432\u0432\u0435\u0441\u0442\u0438 \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0438\u043b\u0438 \u043d\u0430\u0436\u0430\u0442\u044c \u043a\u043d\u043e\u043f\u043a\u0443 \u043f\u043e\u0438\u0441\u043a\u0430: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E4C6EEB2+31554]
+	(No symbol) [0x00007FF6E4BE7EE9]
+	(No symbol) [0x00007FF6E4AA872A]
+	(No symbol) [0x00007FF6E4AF8434]
+	(No symbol) [0x00007FF6E4AF853C]
+	(No symbol) [0x00007FF6E4B3F6A7]
+	(No symbol) [0x00007FF6E4B1D06F]
+	(No symbol) [0x00007FF6E4B3C977]
+	(No symbol) [0x00007FF6E4B1CDD3]
+	(No symbol) [0x00007FF6E4AEA33B]
+	(No symbol) [0x00007FF6E4AEAED1]
+	GetHandleVerifier [0x00007FF6E4F78B2D+3217341]
+	GetHandleVerifier [0x00007FF6E4FC5AF3+3532675]
+	GetHandleVerifier [0x00007FF6E4FBB0F0+3489152]
+	GetHandleVerifier [0x00007FF6E4D1E786+750614]
+	(No symbol) [0x00007FF6E4BF376F]
+	(No symbol) [0x00007FF6E4BEEB24]
+	(No symbol) [0x00007FF6E4BEECB2]
+	(No symbol) [0x00007FF6E4BDE17F]
+	BaseThreadInitThunk [0x00007FFE33287344+20]
+	RtlUserThreadStart [0x00007FFE3527CC91+33]
+
+07/26/2024 01:35:29 AM: INFO: Username entered
+07/26/2024 01:35:29 AM: INFO: Password entered
+07/26/2024 01:35:30 AM: INFO: Login button clicked
+07/26/2024 01:35:30 AM: INFO: \u041a\u043b\u0438\u043a \u043f\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0443 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:35:32 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:35:32 AM: INFO: \u0412\u0432\u043e\u0434 \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 01:35:32 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 01:35:32 AM: INFO: \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f: Admin
+07/26/2024 01:35:32 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043d\u043e\u043f\u043a\u0438 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:35:32 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u0430 \u043a\u043d\u043e\u043f\u043a\u0430 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:35:32 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u0432 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:35:35 AM: INFO: \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u0432 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:35:36 AM: INFO: \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:35:36 AM: INFO: \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430: username=Admin, userrole=Admin, employee_name=john h, status=Enabled
+07/26/2024 01:38:57 AM: INFO: Username entered
+07/26/2024 01:38:57 AM: INFO: Password entered
+07/26/2024 01:38:59 AM: INFO: Login button clicked
+07/26/2024 01:38:59 AM: INFO: Clicking on the Admin menu item
+07/26/2024 01:39:01 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:39:01 AM: INFO: Entering username
+07/26/2024 01:39:01 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 01:39:02 AM: INFO: \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f: Admin
+07/26/2024 01:39:02 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043d\u043e\u043f\u043a\u0438 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:39:02 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u0430 \u043a\u043d\u043e\u043f\u043a\u0430 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:39:02 AM: INFO: Waiting for search results to load
+07/26/2024 01:39:05 AM: INFO: Getting search results
+07/26/2024 01:39:05 AM: INFO: \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:39:05 AM: INFO: Search results: username=Admin, userrole=Admin, employee_name=john h, status=Enabled
+07/26/2024 01:39:48 AM: INFO: Username entered
+07/26/2024 01:39:48 AM: INFO: Password entered
+07/26/2024 01:39:49 AM: INFO: Login button clicked
+07/26/2024 01:39:49 AM: INFO: Clicking on the Admin menu item
+07/26/2024 01:39:51 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 01:39:51 AM: INFO: Entering username
+07/26/2024 01:39:51 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 01:39:52 AM: INFO: \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f: Admin
+07/26/2024 01:39:52 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043d\u043e\u043f\u043a\u0438 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:39:52 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u0430 \u043a\u043d\u043e\u043f\u043a\u0430 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:39:52 AM: INFO: Waiting for search results to load
+07/26/2024 01:39:55 AM: INFO: Getting search results
+07/26/2024 01:39:55 AM: INFO: \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 01:39:55 AM: INFO: Search results: username=Admin, userrole=Admin, employee_name=john h, status=Enabled
+07/26/2024 01:40:56 AM: INFO: Starting the Test
+07/26/2024 01:40:56 AM: INFO: Username entered
+07/26/2024 01:40:57 AM: INFO: Password entered
+07/26/2024 01:40:58 AM: INFO: Login button clicked
+07/26/2024 01:40:58 AM: INFO: Dashboard text: Dashboard
+07/26/2024 01:40:58 AM: INFO: ************** Login Successfull,Im in Dashboard Page ****************
+07/26/2024 01:40:58 AM: INFO: *** Login Test Passed ***
+07/26/2024 01:40:58 AM: INFO: Test Completed
+07/26/2024 01:41:55 AM: INFO: Starting the Test
+07/26/2024 01:41:56 AM: INFO: Username entered
+07/26/2024 01:41:56 AM: INFO: Password entered
+07/26/2024 01:41:57 AM: INFO: Login button clicked
+07/26/2024 01:41:58 AM: INFO: Dashboard text: Dashboard
+07/26/2024 01:41:58 AM: INFO: ************** Login Successfull,Im in Dashboard Page ****************
+07/26/2024 01:41:58 AM: INFO: *** Login Test Passed ***
+07/26/2024 01:41:58 AM: INFO: Test Completed
+07/26/2024 01:42:54 AM: INFO: Starting the Test
+07/26/2024 01:42:55 AM: INFO: Username entered
+07/26/2024 01:42:55 AM: INFO: Password entered
+07/26/2024 01:42:56 AM: INFO: Login button clicked
+07/26/2024 01:42:56 AM: INFO: Returning title of webpage: OrangeHRM
+07/26/2024 01:42:56 AM: INFO: *** Login Test Failed ***
+07/26/2024 01:42:56 AM: INFO: Test Completed
+07/26/2024 01:49:15 AM: INFO: Username entered
+07/26/2024 01:49:15 AM: INFO: Password entered
+07/26/2024 01:49:17 AM: INFO: Login button clicked
+07/26/2024 01:49:17 AM: INFO: successfull Login
+07/26/2024 01:49:18 AM: INFO: PIM clicked on POM class
+07/26/2024 01:49:18 AM: INFO: PIM clicked
+07/26/2024 01:49:24 AM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 01:49:24 AM: INFO: Entered FirstName in PIM page
+07/26/2024 01:49:25 AM: INFO: Entered MiddleName in PIM page
+07/26/2024 01:49:25 AM: INFO: Entered LastName in PIM page
+07/26/2024 01:49:26 AM: INFO: Entered EmployeeID in PIM page
+07/26/2024 01:49:26 AM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 01:49:59 AM: INFO: Username entered
+07/26/2024 01:49:59 AM: INFO: Password entered
+07/26/2024 01:50:00 AM: INFO: Login button clicked
+07/26/2024 01:50:00 AM: INFO: successfull Login
+07/26/2024 01:50:03 AM: INFO: PIM clicked
+07/26/2024 01:50:04 AM: INFO: Employee search done
+07/26/2024 01:50:39 AM: INFO: Username entered
+07/26/2024 01:50:39 AM: INFO: Password entered
+07/26/2024 01:50:40 AM: INFO: Login button clicked
+07/26/2024 01:50:40 AM: INFO: successfull Login
+07/26/2024 01:50:42 AM: INFO: PIM clicked on POM class
+07/26/2024 01:50:42 AM: INFO: Employee search done
+07/26/2024 09:23:05 AM: INFO: Username entered
+07/26/2024 09:23:05 AM: INFO: Password entered
+07/26/2024 09:23:05 AM: INFO: Login button clicked
+07/26/2024 09:23:05 AM: INFO: successfull Login
+07/26/2024 09:23:08 AM: INFO: PIM clicked on POM class
+07/26/2024 09:23:08 AM: INFO: PIM clicked
+07/26/2024 09:23:13 AM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 09:23:14 AM: INFO: Entered FirstName in PIM page
+07/26/2024 09:23:14 AM: INFO: Entered MiddleName in PIM page
+07/26/2024 09:23:14 AM: INFO: Entered LastName in PIM page
+07/26/2024 09:23:14 AM: INFO: Entered EmployeeID in PIM page
+07/26/2024 09:23:14 AM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 09:23:46 AM: INFO: Username entered
+07/26/2024 09:23:46 AM: INFO: Password entered
+07/26/2024 09:23:47 AM: INFO: Login button clicked
+07/26/2024 09:23:47 AM: INFO: successfull Login
+07/26/2024 09:23:49 AM: INFO: PIM clicked on POM class
+07/26/2024 09:23:49 AM: INFO: PIM clicked
+07/26/2024 09:23:54 AM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 09:23:55 AM: INFO: Entered FirstName in PIM page
+07/26/2024 09:23:55 AM: INFO: Entered MiddleName in PIM page
+07/26/2024 09:23:55 AM: INFO: Entered LastName in PIM page
+07/26/2024 09:23:56 AM: INFO: Entered EmployeeID in PIM page
+07/26/2024 09:23:56 AM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 09:24:26 AM: INFO: Username entered
+07/26/2024 09:24:26 AM: INFO: Password entered
+07/26/2024 09:24:27 AM: INFO: Login button clicked
+07/26/2024 09:24:27 AM: INFO: successfull Login
+07/26/2024 09:24:28 AM: INFO: PIM clicked on POM class
+07/26/2024 09:24:28 AM: INFO: PIM clicked
+07/26/2024 09:24:34 AM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 09:24:34 AM: INFO: Entered FirstName in PIM page
+07/26/2024 09:24:35 AM: INFO: Entered MiddleName in PIM page
+07/26/2024 09:24:35 AM: INFO: Entered LastName in PIM page
+07/26/2024 09:24:35 AM: INFO: Entered EmployeeID in PIM page
+07/26/2024 09:24:35 AM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 09:25:23 AM: INFO: Username entered
+07/26/2024 09:25:23 AM: INFO: Password entered
+07/26/2024 09:25:23 AM: INFO: Login button clicked
+07/26/2024 09:25:23 AM: INFO: successfull Login
+07/26/2024 09:25:26 AM: INFO: PIM clicked on POM class
+07/26/2024 09:25:26 AM: INFO: PIM clicked
+07/26/2024 09:25:31 AM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 09:25:32 AM: INFO: Entered FirstName in PIM page
+07/26/2024 09:25:32 AM: INFO: Entered MiddleName in PIM page
+07/26/2024 09:25:32 AM: INFO: Entered LastName in PIM page
+07/26/2024 09:25:32 AM: INFO: Entered EmployeeID in PIM page
+07/26/2024 09:25:33 AM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 09:58:41 AM: INFO: Username entered
+07/26/2024 09:58:41 AM: INFO: Password entered
+07/26/2024 09:58:43 AM: INFO: Login button clicked
+07/26/2024 09:58:43 AM: INFO: Clicking on the Admin menu item
+07/26/2024 09:58:44 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 09:58:44 AM: INFO: Entering username
+07/26/2024 09:58:44 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 09:58:45 AM: INFO: \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f: Admin
+07/26/2024 09:58:45 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043d\u043e\u043f\u043a\u0438 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 09:58:45 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u0430 \u043a\u043d\u043e\u043f\u043a\u0430 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 09:58:45 AM: INFO: Waiting for search results to load
+07/26/2024 09:58:48 AM: INFO: Getting search results
+07/26/2024 09:58:49 AM: INFO: \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 09:58:49 AM: INFO: Search results: username=Admin, userrole=Admin, employee_name=Mojisola Otusheso, status=Enabled
+07/26/2024 10:04:07 AM: INFO: Username entered
+07/26/2024 10:04:07 AM: INFO: Password entered
+07/26/2024 10:04:08 AM: INFO: Login button clicked
+07/26/2024 10:04:08 AM: INFO: Clicking on the Admin menu item
+07/26/2024 10:04:10 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 10:04:10 AM: INFO: Entering username
+07/26/2024 10:04:10 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 10:04:10 AM: INFO: \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f: Admin
+07/26/2024 10:04:10 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043d\u043e\u043f\u043a\u0438 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 10:04:10 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u0430 \u043a\u043d\u043e\u043f\u043a\u0430 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 10:04:10 AM: INFO: Waiting for search results to load
+07/26/2024 10:04:13 AM: INFO: Getting search results
+07/26/2024 10:04:14 AM: INFO: \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 10:04:14 AM: INFO: Search results: username=Admin, userrole=Admin, employee_name=Mojisola Otusheso, status=Enabled
+07/26/2024 10:05:08 AM: INFO: Username entered
+07/26/2024 10:05:08 AM: INFO: Password entered
+07/26/2024 10:05:09 AM: INFO: Login button clicked
+07/26/2024 10:05:09 AM: INFO: Clicking on the Admin menu item
+07/26/2024 10:05:12 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 10:05:12 AM: INFO: Entering username
+07/26/2024 10:05:12 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 10:05:12 AM: INFO: \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f: Admin
+07/26/2024 10:05:12 AM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043d\u043e\u043f\u043a\u0438 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 10:05:12 AM: INFO: \u041d\u0430\u0436\u0430\u0442\u0430 \u043a\u043d\u043e\u043f\u043a\u0430 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 10:05:12 AM: INFO: Waiting for search results to load
+07/26/2024 10:05:15 AM: INFO: Getting search results
+07/26/2024 10:05:16 AM: INFO: \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 10:05:16 AM: INFO: Search results: username=Admin, userrole=Admin, employee_name=Mojisola Otusheso, status=Enabled
+07/26/2024 10:24:48 AM: INFO: Username entered
+07/26/2024 10:24:48 AM: INFO: Password entered
+07/26/2024 10:24:49 AM: INFO: Login button clicked
+07/26/2024 10:24:49 AM: INFO: Successfully logged in
+07/26/2024 10:24:51 AM: INFO: PIM menu clicked
+07/26/2024 10:24:52 AM: INFO: Employee search initiated
+07/26/2024 11:24:34 AM: INFO: Username entered
+07/26/2024 11:24:34 AM: INFO: Password entered
+07/26/2024 11:24:34 AM: INFO: Login button clicked
+07/26/2024 11:24:34 AM: INFO: \u0423\u0441\u043f\u0435\u0448\u043d\u044b\u0439 \u0432\u0445\u043e\u0434 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0443
+07/26/2024 11:24:37 AM: INFO: \u041c\u0435\u043d\u044e PIM \u043d\u0430\u0436\u0430\u0442\u043e
+07/26/2024 11:24:37 AM: INFO: \u041f\u043e\u0438\u0441\u043a \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0430 \u043d\u0430\u0447\u0430\u0442
+07/26/2024 11:34:10 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253242FD160>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6e950b9eea31c896d4ec90c685bd2d6b
+07/26/2024 11:34:14 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025323D0CC80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6e950b9eea31c896d4ec90c685bd2d6b
+07/26/2024 11:34:18 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253242FD610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6e950b9eea31c896d4ec90c685bd2d6b
+07/26/2024 11:43:39 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194FC77D640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f09a8a81bd7048d5b77d1e322a1e7401
+07/26/2024 11:43:43 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194FC1C4200>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f09a8a81bd7048d5b77d1e322a1e7401
+07/26/2024 11:43:47 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194FC77DAC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f09a8a81bd7048d5b77d1e322a1e7401
+07/26/2024 11:46:52 AM: INFO: Username entered
+07/26/2024 11:46:52 AM: INFO: Password entered
+07/26/2024 11:46:53 AM: INFO: Login button clicked
+07/26/2024 11:46:53 AM: INFO: \u0423\u0441\u043f\u0435\u0448\u043d\u044b\u0439 \u0432\u0445\u043e\u0434 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0443
+07/26/2024 11:46:55 AM: INFO: \u041c\u0435\u043d\u044e PIM \u043d\u0430\u0436\u0430\u0442\u043e
+07/26/2024 11:46:55 AM: INFO: \u041f\u043e\u0438\u0441\u043a \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0430 \u043d\u0430\u0447\u0430\u0442
+07/26/2024 11:47:05 AM: ERROR: \u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043d\u0430\u0439\u0442\u0438 \u043a\u043d\u043e\u043f\u043a\u0443 \u0420\u0415\u0414\u0410\u041a\u0422\u0418\u0420\u041e\u0412\u0410\u0422\u042c \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0430
+07/26/2024 11:53:11 AM: INFO: Username entered
+07/26/2024 11:53:11 AM: INFO: Password entered
+07/26/2024 11:53:11 AM: INFO: Login button clicked
+07/26/2024 11:53:11 AM: INFO: \u0423\u0441\u043f\u0435\u0448\u043d\u044b\u0439 \u0432\u0445\u043e\u0434 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0443
+07/26/2024 11:59:26 AM: INFO: Username entered
+07/26/2024 11:59:27 AM: INFO: Password entered
+07/26/2024 11:59:28 AM: INFO: Login button clicked
+07/26/2024 11:59:28 AM: INFO: Successfully logged in
+07/26/2024 12:08:23 PM: INFO: Username entered
+07/26/2024 12:08:23 PM: INFO: Password entered
+07/26/2024 12:08:24 PM: INFO: Login button clicked
+07/26/2024 12:08:24 PM: INFO: Successfully logged in
+07/26/2024 12:12:55 PM: INFO: Username entered
+07/26/2024 12:12:55 PM: INFO: Password entered
+07/26/2024 12:12:56 PM: INFO: Login button clicked
+07/26/2024 12:12:56 PM: INFO: Clicking on the Admin menu item
+07/26/2024 12:12:57 PM: INFO: \u041d\u0430\u0436\u0430\u0442\u043e \u043d\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043c\u0435\u043d\u044e Admin
+07/26/2024 12:12:57 PM: INFO: Entering username
+07/26/2024 12:12:57 PM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438\u043c\u0435\u043d\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f
+07/26/2024 12:12:58 PM: INFO: \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f: Admin
+07/26/2024 12:12:58 PM: INFO: \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043d\u043e\u043f\u043a\u0438 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 12:12:58 PM: INFO: \u041d\u0430\u0436\u0430\u0442\u0430 \u043a\u043d\u043e\u043f\u043a\u0430 \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 12:12:58 PM: INFO: Waiting for search results to load
+07/26/2024 12:13:01 PM: INFO: Getting search results
+07/26/2024 12:13:01 PM: INFO: \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430
+07/26/2024 12:13:01 PM: INFO: Search results: username=Admin, userrole=Admin, employee_name=mandaTest 59 user, status=Enabled
+07/26/2024 12:13:22 PM: INFO: Starting the Test
+07/26/2024 12:13:23 PM: INFO: Username entered
+07/26/2024 12:13:23 PM: INFO: Password entered
+07/26/2024 12:13:24 PM: INFO: Login button clicked
+07/26/2024 12:13:24 PM: INFO: Dashboard text: Dashboard
+07/26/2024 12:13:24 PM: INFO: ************** Login Successfull,Im in Dashboard Page ****************
+07/26/2024 12:13:24 PM: INFO: *** Login Test Passed ***
+07/26/2024 12:13:24 PM: INFO: Test Completed
+07/26/2024 12:14:12 PM: INFO: Username entered
+07/26/2024 12:14:12 PM: INFO: Password entered
+07/26/2024 12:14:13 PM: INFO: Login button clicked
+07/26/2024 12:14:13 PM: INFO: successfull Login
+07/26/2024 12:14:15 PM: INFO: PIM clicked on POM class
+07/26/2024 12:14:15 PM: INFO: PIM clicked
+07/26/2024 12:14:20 PM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 12:14:21 PM: INFO: Entered FirstName in PIM page
+07/26/2024 12:14:21 PM: INFO: Entered MiddleName in PIM page
+07/26/2024 12:14:21 PM: INFO: Entered LastName in PIM page
+07/26/2024 12:14:22 PM: INFO: Entered EmployeeID in PIM page
+07/26/2024 12:14:22 PM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 12:15:08 PM: INFO: Username entered
+07/26/2024 12:15:08 PM: INFO: Password entered
+07/26/2024 12:15:09 PM: INFO: Login button clicked
+07/26/2024 12:15:09 PM: INFO: successfull Login
+07/26/2024 12:15:12 PM: INFO: PIM clicked on POM class
+07/26/2024 12:15:12 PM: INFO: PIM clicked
+07/26/2024 12:15:17 PM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 12:15:18 PM: INFO: Entered FirstName in PIM page
+07/26/2024 12:15:18 PM: INFO: Entered MiddleName in PIM page
+07/26/2024 12:15:18 PM: INFO: Entered LastName in PIM page
+07/26/2024 12:15:18 PM: INFO: Entered EmployeeID in PIM page
+07/26/2024 12:15:19 PM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 12:21:27 PM: INFO: Username entered
+07/26/2024 12:21:27 PM: INFO: Password entered
+07/26/2024 12:21:28 PM: INFO: Login button clicked
+07/26/2024 12:21:28 PM: INFO: successfull Login
+07/26/2024 12:21:30 PM: INFO: PIM clicked on POM class
+07/26/2024 12:21:30 PM: INFO: PIM clicked
+07/26/2024 12:21:35 PM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 12:21:36 PM: INFO: Entered FirstName in PIM page
+07/26/2024 12:21:36 PM: INFO: Entered MiddleName in PIM page
+07/26/2024 12:21:36 PM: INFO: Entered LastName in PIM page
+07/26/2024 12:21:37 PM: INFO: Entered EmployeeID in PIM page
+07/26/2024 12:21:37 PM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 12:22:42 PM: INFO: Username entered
+07/26/2024 12:22:42 PM: INFO: Password entered
+07/26/2024 12:22:43 PM: INFO: Login button clicked
+07/26/2024 12:22:43 PM: INFO: successfull Login
+07/26/2024 12:22:44 PM: INFO: PIM clicked on POM class
+07/26/2024 12:22:44 PM: INFO: PIM clicked
+07/26/2024 12:22:50 PM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 12:22:50 PM: INFO: Entered FirstName in PIM page
+07/26/2024 12:22:51 PM: INFO: Entered MiddleName in PIM page
+07/26/2024 12:22:51 PM: INFO: Entered LastName in PIM page
+07/26/2024 12:22:51 PM: INFO: Entered EmployeeID in PIM page
+07/26/2024 12:22:51 PM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 12:23:41 PM: INFO: Username entered
+07/26/2024 12:23:41 PM: INFO: Password entered
+07/26/2024 12:23:41 PM: INFO: Login button clicked
+07/26/2024 12:23:41 PM: INFO: successfull Login
+07/26/2024 12:23:44 PM: INFO: PIM clicked on POM class
+07/26/2024 12:23:44 PM: INFO: PIM clicked
+07/26/2024 12:23:50 PM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 12:23:50 PM: INFO: Entered FirstName in PIM page
+07/26/2024 12:23:51 PM: INFO: Entered MiddleName in PIM page
+07/26/2024 12:23:51 PM: INFO: Entered LastName in PIM page
+07/26/2024 12:23:51 PM: INFO: Entered EmployeeID in PIM page
+07/26/2024 12:23:51 PM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 12:25:54 PM: INFO: Username entered
+07/26/2024 12:25:54 PM: INFO: Password entered
+07/26/2024 12:25:55 PM: INFO: Login button clicked
+07/26/2024 12:25:55 PM: INFO: successfull Login
+07/26/2024 12:25:57 PM: INFO: PIM clicked on POM class
+07/26/2024 12:25:57 PM: INFO: PIM clicked
+07/26/2024 12:26:02 PM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 12:26:03 PM: INFO: Entered FirstName in PIM page
+07/26/2024 12:26:03 PM: INFO: Entered MiddleName in PIM page
+07/26/2024 12:26:03 PM: INFO: Entered LastName in PIM page
+07/26/2024 12:26:04 PM: INFO: Entered EmployeeID in PIM page
+07/26/2024 12:26:04 PM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 12:26:21 PM: INFO: Username entered
+07/26/2024 12:26:21 PM: INFO: Password entered
+07/26/2024 12:26:22 PM: INFO: Login button clicked
+07/26/2024 12:26:22 PM: INFO: successfull Login
+07/26/2024 12:26:24 PM: INFO: PIM clicked on POM class
+07/26/2024 12:26:24 PM: INFO: PIM clicked
+07/26/2024 12:26:29 PM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 12:26:30 PM: INFO: Entered FirstName in PIM page
+07/26/2024 12:26:30 PM: INFO: Entered MiddleName in PIM page
+07/26/2024 12:26:30 PM: INFO: Entered LastName in PIM page
+07/26/2024 12:26:31 PM: INFO: Entered EmployeeID in PIM page
+07/26/2024 12:26:31 PM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 12:30:46 PM: INFO: Username entered
+07/26/2024 12:30:46 PM: INFO: Password entered
+07/26/2024 12:30:47 PM: INFO: Login button clicked
+07/26/2024 12:30:47 PM: INFO: Successfully logged in to OrangeHRM
+07/26/2024 12:30:48 PM: INFO: PIM clicked on POM class
+07/26/2024 12:30:48 PM: INFO: Clicked on PIM menu
+07/26/2024 12:30:50 PM: INFO: Clicked on Logout button
+07/26/2024 12:30:50 PM: INFO: Successfully logged out and redirected to login page
+07/26/2024 12:41:05 PM: INFO: Starting the Test
+07/26/2024 12:41:06 PM: INFO: Username entered
+07/26/2024 12:41:06 PM: INFO: Password entered
+07/26/2024 12:41:07 PM: INFO: Login button clicked
+07/26/2024 12:41:08 PM: INFO: Dashboard text: Dashboard
+07/26/2024 12:41:08 PM: INFO: ************** Login Successfull,Im in Dashboard Page ****************
+07/26/2024 12:41:08 PM: INFO: *** Login Test Passed ***
+07/26/2024 12:41:08 PM: INFO: Test Completed
+07/26/2024 12:42:15 PM: INFO: Starting the Test
+07/26/2024 12:42:16 PM: INFO: Username entered
+07/26/2024 12:42:16 PM: INFO: Password entered
+07/26/2024 12:42:17 PM: INFO: Login button clicked
+07/26/2024 12:42:17 PM: INFO: Returning title of webpage: OrangeHRM
+07/26/2024 12:42:17 PM: INFO: *** Login Test Failed ***
+07/26/2024 12:42:17 PM: INFO: Test Completed
+07/26/2024 12:43:07 PM: INFO: Username entered
+07/26/2024 12:43:07 PM: INFO: Password entered
+07/26/2024 12:43:08 PM: INFO: Login button clicked
+07/26/2024 12:43:08 PM: INFO: Successfully logged in to OrangeHRM
+07/26/2024 12:43:09 PM: INFO: PIM clicked on POM class
+07/26/2024 12:43:09 PM: INFO: Clicked on PIM menu
+07/26/2024 12:43:11 PM: INFO: Clicked on Logout button
+07/26/2024 12:43:11 PM: INFO: Successfully logged out and redirected to login page
+07/26/2024 12:44:14 PM: INFO: Username entered
+07/26/2024 12:44:14 PM: INFO: Password entered
+07/26/2024 12:44:15 PM: INFO: Login button clicked
+07/26/2024 12:44:15 PM: INFO: successfull Login
+07/26/2024 12:44:17 PM: INFO: PIM clicked on POM class
+07/26/2024 12:44:17 PM: INFO: PIM clicked
+07/26/2024 12:44:22 PM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 12:44:23 PM: INFO: Entered FirstName in PIM page
+07/26/2024 12:44:23 PM: INFO: Entered MiddleName in PIM page
+07/26/2024 12:44:24 PM: INFO: Entered LastName in PIM page
+07/26/2024 12:44:24 PM: INFO: Entered EmployeeID in PIM page
+07/26/2024 12:44:25 PM: INFO: Clicked on SAVE button on PIM page
+07/26/2024 12:46:43 PM: INFO: Username entered
+07/26/2024 12:46:43 PM: INFO: Password entered
+07/26/2024 12:46:44 PM: INFO: Login button clicked
+07/26/2024 12:46:44 PM: INFO: successfull Login
+07/26/2024 12:46:45 PM: INFO: PIM clicked on POM class
+07/26/2024 12:46:45 PM: INFO: PIM clicked
+07/26/2024 12:46:51 PM: INFO: Add Employee tab clicked on PIM Page
+07/26/2024 12:46:51 PM: INFO: Entered FirstName in PIM page
+07/26/2024 12:46:52 PM: INFO: Entered MiddleName in PIM page
+07/26/2024 12:46:52 PM: INFO: Entered LastName in PIM page
+07/26/2024 12:46:52 PM: INFO: Entered EmployeeID in PIM page
+07/26/2024 12:46:52 PM: INFO: Clicked on SAVE button on PIM page
